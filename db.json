@@ -1,8 +1,8 @@
 
 {
-  "profile": [
-    { "name": "Jhon Doe", "imageurl": "https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1" }
-  ],
+  "profile":
+    { "name": "John Doe", "imageurl": "https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1" }
+  ,
   "profiles": [
     { "name": "poppin", "imageurl": "" },
     {  "name": "roy", "imageurl": "" },
