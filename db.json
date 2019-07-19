@@ -16,6 +16,8 @@
   {"prid":"PR00013","actions":"accepted","date":"12/05/19","sent":"PR00098"},
   {"prid":"PR00023","actions":"decline","date":"1/02/19","sent":"PR00098"},
   {"prid":"PR00076","actions":"decline","date":"11/02/19","sent":"PR00098"},
-  {"prid":"PR00011","actions":"accepted","date":"2/05/18","sent":"PR00098"}
+  {"prid":"PR00011","actions":"sent","date":"2/05/18","sent":"PR00098"},
+  {"prid":"PR00038","actions":"sent","date":"2/05/18","sent":"PR00098"},
+  {"prid":"PR00086","actions":"decline","date":"11/02/19","sent":"PR00098"}
 ]
 }
