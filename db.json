@@ -22,12 +22,12 @@
 ]
   ,
   "profile":{
-    "user-info":{
+    "info":{
       "firstName":"Ajay","lastName":"Thakur","dob":"2-3-1990","gender":"male","martialStatus":"Never married","country":"india","state":"kerela","city":"kochi","residencyStatus":"citizen","phoneNumber":"1234567890"},
-    "user-profession":{"higestEducation":"masters","specialization":"arts","employeeSector":"business","profession":"actor","employedAt":"None","annualIncome":"$10000"},
-    "user-lifestyle":{"complexion":"fair","height":"5 7","weight":"68","bodyType":"slim","speciallyAbled":"false","drink":"no","smoke":"no"},
-    "user-social":{"familyMembers":["dad","mom","sister"],"familyStatus":"rich","familyValue":"traditional","religion":"hindu","community":"hindu"},
-    "user-description":"Let's introduce 's profile to the other community members. You could use the tools to highlight different aspects of 's profile by using the tools provided below to gather attention to relevant details."
+    "profession":{"higestEducation":"masters","specialization":"arts","employeeSector":"business","profession":"actor","employedAt":"None","annualIncome":"$10000"},
+    "lifestyle":{"complexion":"fair","height":"5 7","weight":"68","bodyType":"slim","speciallyAbled":"false","drink":"no","smoke":"no"},
+    "social":{"familyMembers":["dad","mom","sister"],"familyStatus":"rich","familyValue":"traditional","religion":"hindu","community":"hindu"},
+    "description":"Let's introduce 's profile to the other community members. You could use the tools to highlight different aspects of 's profile by using the tools provided below to gather attention to relevant details."
   }
   
 }
