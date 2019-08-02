@@ -151,70 +151,73 @@
 			}
 		]
 	},
-	"partner-profile/1": {
-		"info": {
-			"firstName": "Veena",
-			"lastName": "Malik",
-			"dob": "2-3-1990",
-			"gender": "male",
-			"martialStatus": "Never married",
-			"country": "India",
-			"state": "Kerela",
-			"city": "Kochi",
-			"residencyStatus": "Citizen",
-			"phoneNumber": "1234567890"
-		},
-		"profession": {
-			"higestEducation": "M.D",
-			"specialization": "Cardiology",
-			"employeeSector": "Business",
-			"profession": "Doctor",
-			"employedAt": "None",
-			"annualIncome": "$10000"
-		},
-		"lifestyle": {
-			"complexion": "Fair",
-			"height": "5 7",
-			"weight": "68",
-			"bodyType": "Slim",
-			"speciallyAbled": "False",
-			"drink": "No",
-			"smoke": "No"
-		},
-		"social": {
-			"familyMembers": [ "Dad", "Mom", "Sister" ],
-			"familyStatus": "Rich",
-			"familyValue": "Traditional",
-			"religion": "Hindu",
-			"community": "Hindu",
-			"gotra": "Something"
-		},
-		"description": "Let's introduce 's profile to the other community members. You could use the tools to highlight different aspects of 's profile by using the tools provided below to gather attention to relevant details.",
-		"fileList": [
-			{
-				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUJnChwBchpCrNR0lzWRxXMNuMjmDHGFun7pPF7mFvfxV0yjj",
-				"uid": 23,
-				"name": "xxt.png",
-				"status": "done"
+	"partner-profiles": [
+		{
+			"id": 1,
+			"info": {
+				"firstName": "Veena",
+				"lastName": "Malik",
+				"dob": "2-3-1990",
+				"gender": "male",
+				"martialStatus": "Never married",
+				"country": "India",
+				"state": "Kerela",
+				"city": "Kochi",
+				"residencyStatus": "Citizen",
+				"phoneNumber": "1234567890"
 			},
-			{
-				"url": "https://media.istockphoto.com/photos/beautiful-woman-in-denim-shirt-smiling-picture-id655015648?k=6&m=655015648&s=612x612&w=0&h=Dqijc-8XkNCzvqO05Jq_JlO8HC7wD0gqt70CuE2Jt3s=",
-				"uid": 21,
-				"name": "ast.png",
-				"status": "done"
+			"profession": {
+				"higestEducation": "M.D",
+				"specialization": "Cardiology",
+				"employeeSector": "Business",
+				"profession": "Doctor",
+				"employedAt": "None",
+				"annualIncome": "$10000"
 			},
-			{
-				"url": "https://i1.wp.com/wallpapershd.live/wp-content/uploads/2019/01/Whatsapp-Dp-pakistani-bridal-2018.png?resize=525%2C657&ssl=1",
-				"uid": 11,
-				"name": "sdt.png",
-				"status": "done"
+			"lifestyle": {
+				"complexion": "Fair",
+				"height": "5 7",
+				"weight": "68",
+				"bodyType": "Slim",
+				"speciallyAbled": "False",
+				"drink": "No",
+				"smoke": "No"
 			},
-			{
-				"url": "http://2.bp.blogspot.com/-O9bNnu0SZFs/TyhFUXIr7xI/AAAAAAAAAqg/HL9VH3V8dbM/s1600/2009-4-15_195148_mbb54.jpg",
-				"uid": 54,
-				"name": "azx.png",
-				"status": "done"
-			}
-		]
-	}
+			"social": {
+				"familyMembers": [ "Dad", "Mom", "Sister" ],
+				"familyStatus": "Rich",
+				"familyValue": "Traditional",
+				"religion": "Hindu",
+				"community": "Hindu",
+				"gotra": "Something"
+			},
+			"description": "Let's introduce 's profile to the other community members. You could use the tools to highlight different aspects of 's profile by using the tools provided below to gather attention to relevant details.",
+			"fileList": [
+				{
+					"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUJnChwBchpCrNR0lzWRxXMNuMjmDHGFun7pPF7mFvfxV0yjj",
+					"uid": 23,
+					"name": "xxt.png",
+					"status": "done"
+				},
+				{
+					"url": "https://media.istockphoto.com/photos/beautiful-woman-in-denim-shirt-smiling-picture-id655015648?k=6&m=655015648&s=612x612&w=0&h=Dqijc-8XkNCzvqO05Jq_JlO8HC7wD0gqt70CuE2Jt3s=",
+					"uid": 21,
+					"name": "ast.png",
+					"status": "done"
+				},
+				{
+					"url": "https://i1.wp.com/wallpapershd.live/wp-content/uploads/2019/01/Whatsapp-Dp-pakistani-bridal-2018.png?resize=525%2C657&ssl=1",
+					"uid": 11,
+					"name": "sdt.png",
+					"status": "done"
+				},
+				{
+					"url": "http://2.bp.blogspot.com/-O9bNnu0SZFs/TyhFUXIr7xI/AAAAAAAAAqg/HL9VH3V8dbM/s1600/2009-4-15_195148_mbb54.jpg",
+					"uid": 54,
+					"name": "azx.png",
+					"status": "done"
+				}
+			]
+		}
+	]
 }
