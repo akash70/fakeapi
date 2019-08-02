@@ -105,7 +105,7 @@
       "phoneNumber": "1234567890"
     },
     "profession": {
-      "higestEducation": "Masters",
+      "highestEducation": "Masters",
       "specialization": "Arts",
       "employeeSector": "Business",
       "profession": "Actor",
@@ -176,7 +176,7 @@
         "phoneNumber": "1234567890"
       },
       "profession": {
-        "higestEducation": "M.D",
+        "highestEducation": "M.D",
         "specialization": "Cardiology",
         "employeeSector": "Business",
         "profession": "Doctor",
