@@ -1,43 +1,148 @@
-
 {
-  "profile-summary":
-    { "name": "John Doe", "imageurl": "https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1" }
-  ,
-  "profiles": [
-    { "name": "Veena","hide":"false","location":"Hyderabad","shortlist":false,"profession":"Doctor","imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUJnChwBchpCrNR0lzWRxXMNuMjmDHGFun7pPF7mFvfxV0yjj","age":"28","description":"A five-time winner of the International Cricket Council's Umpire of the Year award, sits on the Marylebone Cricket Club (MCC) laws sub-committee, the worldwide custodian of cricket's sometimes obscure rules of play.","match":3},
-    {  "name": "Samntha","hide":"false","location":"Kerala","shortlist":false,"profession":"Doctor","imageurl":"https://media.istockphoto.com/photos/beautiful-woman-in-denim-shirt-smiling-picture-id655015648?k=6&m=655015648&s=612x612&w=0&h=Dqijc-8XkNCzvqO05Jq_JlO8HC7wD0gqt70CuE2Jt3s=","age":"30","description":"England, who have often cited a humiliating defeat by New Zealand at the 2015 World Cup as the catalyst for their climb to the top of the one-day international rankings, finally have a World Cup win to go with their three losing appearances in the 1979, 1987 and 1992 finals","match":4 },
-    {  "name": "Rahul","hide":"false","location":"Delhi","shortlist":false,"profession":"Lawyer","imageurl":"https://images.zapnito.com/users/258438/avatar/medium_profile.jpg","age":"26","description":"Unfortunately that sort of thing happens from time to time. It's a part of the game that we play.","match":1 },
-    {  "name": "Ashok","hide":"false","location":"Pune","shortlist":false,"profession":"Professor","imageurl":"http://cflyer.com//comprehensive/uploads/thumbnail/630044536ravi.png","age":"27","description":"With two runs required off the final ball, wicketkeeper Jos Buttler and Jason Roy combined to run out Guptill as he came back for the second.","match":5 },
-    {  "name": "Maya","hide":"false","location":"Mumbai","shortlist":false,"profession":"Model","imageurl":"https://i1.wp.com/wallpapershd.live/wp-content/uploads/2019/01/Whatsapp-Dp-pakistani-bridal-2018.png?resize=525%2C657&ssl=1","age":"28","description":"With no Ashwin in the squad, India finished their World Cup 2019 campaign in semi-finals after losing to New Zealand in a rain-affected match in Mancheste","match":4},
-    {  "name": "Sanjay" ,"hide":"false","location":"Chennai","shortlist":false,"profession":"Doctor","imageurl":"https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg","age":"25","description":"Ms Shakeel shared her artwork on Instagram on Tuesday, where it caught the airline's eye. They liked it so much that they asked for her permission to repost it, and even upgraded her flight from Pakistan to Milan.","match":4 }
-  ]
-  ,
-  "activities":[
-  {"prid":"PR00013","actions":"accepted","date":"12/05/19","sent":"PR00098"},
-  {"prid":"PR00023","actions":"decline","date":"1/02/19","sent":"PR00098"},
-  {"prid":"PR00076","actions":"decline","date":"11/02/19","sent":"PR00098"},
-  {"prid":"PR00011","actions":"sent","date":"2/05/18","sent":"PR00098"},
-  {"prid":"PR00038","actions":"sent","date":"2/05/18","sent":"PR00098"},
-  {"prid":"PR00086","actions":"decline","date":"11/02/19","sent":"PR00098"}
-]
-  ,
-  "profile":{
-    "info":{
-      "firstName":"Ajay","lastName":"Thakur","dob":"2-3-1990","gender":"male","martialStatus":"Never married","country":"india","state":"kerela","city":"kochi","residencyStatus":"citizen","phoneNumber":"1234567890"},
-    "profession":{"higestEducation":"masters","specialization":"arts","employeeSector":"business","profession":"actor","employedAt":"None","annualIncome":"$10000"},
-    "lifestyle":{"complexion":"fair","height":"5 7","weight":"68","bodyType":"slim","speciallyAbled":"false","drink":"no","smoke":"no"},
-    "social":{"familyMembers":["dad","mom","sister"],"familyStatus":"rich","familyValue":"traditional","religion":"hindu","community":"hindu","gotra":"something"},
-    "description":"Let's introduce 's profile to the other community members. You could use the tools to highlight different aspects of 's profile by using the tools provided below to gather attention to relevant details.",
-    "fileList":[
-      {"url":"https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1","uid":23,"name": "xxt.png",
-      "status": "done"},
-      {"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjmYPSxUhRavfbgb8YuO_-lVFo0IZlhsxMFl_2EjHNSW437LH7","uid":21,"name": "ast.png",
-      "status": "done"},
-      {"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8eaWusAanTYFkQnAmiSFYT0fIPrTzPS8EnTmSNTy3m_qUcBgEw","uid":11,"name": "sdt.png",
-      "status": "done"},
-      {"url":"https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1","uid":54,"name": "azx.png",
-      "status": "done"}
-      ]
-  }
-  
+	"profile-summary": {
+		"name": "Vikram Bhat",
+		"imageurl": "https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1"
+	},
+	"profiles": [
+		{
+			"name": "Veena",
+			"hide": "false",
+			"location": "Hyderabad",
+			"shortlist": false,
+			"profession": "Doctor",
+			"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUJnChwBchpCrNR0lzWRxXMNuMjmDHGFun7pPF7mFvfxV0yjj",
+			"age": "28",
+			"description": "A five-time winner of the International Cricket Council's Umpire of the Year award, sits on the Marylebone Cricket Club (MCC) laws sub-committee, the worldwide custodian of cricket's sometimes obscure rules of play.",
+			"match": 3
+		},
+		{
+			"name": "Samantha",
+			"hide": "false",
+			"location": "Kerala",
+			"shortlist": false,
+			"profession": "Doctor",
+			"imageurl": "https://media.istockphoto.com/photos/beautiful-woman-in-denim-shirt-smiling-picture-id655015648?k=6&m=655015648&s=612x612&w=0&h=Dqijc-8XkNCzvqO05Jq_JlO8HC7wD0gqt70CuE2Jt3s=",
+			"age": "30",
+			"description": "England, who have often cited a humiliating defeat by New Zealand at the 2015 World Cup as the catalyst for their climb to the top of the one-day international rankings, finally have a World Cup win to go with their three losing appearances in the 1979, 1987 and 1992 finals",
+			"match": 4
+		},
+		{
+			"name": "Rahul",
+			"hide": "false",
+			"location": "Delhi",
+			"shortlist": false,
+			"profession": "Lawyer",
+			"imageurl": "https://images.zapnito.com/users/258438/avatar/medium_profile.jpg",
+			"age": "26",
+			"description": "Unfortunately that sort of thing happens from time to time. It's a part of the game that we play.",
+			"match": 1
+		},
+		{
+			"name": "Ashok",
+			"hide": "false",
+			"location": "Pune",
+			"shortlist": false,
+			"profession": "Professor",
+			"imageurl": "http://cflyer.com//comprehensive/uploads/thumbnail/630044536ravi.png",
+			"age": "27",
+			"description": "With two runs required off the final ball, wicketkeeper Jos Buttler and Jason Roy combined to run out Guptill as he came back for the second.",
+			"match": 5
+		},
+		{
+			"name": "Maya",
+			"hide": "false",
+			"location": "Mumbai",
+			"shortlist": false,
+			"profession": "Model",
+			"imageurl": "https://i1.wp.com/wallpapershd.live/wp-content/uploads/2019/01/Whatsapp-Dp-pakistani-bridal-2018.png?resize=525%2C657&ssl=1",
+			"age": "28",
+			"description": "With no Ashwin in the squad, India finished their World Cup 2019 campaign in semi-finals after losing to New Zealand in a rain-affected match in Mancheste",
+			"match": 4
+		},
+		{
+			"name": "Sanjay",
+			"hide": "false",
+			"location": "Chennai",
+			"shortlist": false,
+			"profession": "Doctor",
+			"imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+			"age": "25",
+			"description": "Ms Shakeel shared her artwork on Instagram on Tuesday, where it caught the airline's eye. They liked it so much that they asked for her permission to repost it, and even upgraded her flight from Pakistan to Milan.",
+			"match": 4
+		}
+	],
+	"activities": [
+		{ "prid": "PR00013", "actions": "accepted", "date": "12/05/19", "sent": "PR00098" },
+		{ "prid": "PR00023", "actions": "decline", "date": "1/02/19", "sent": "PR00098" },
+		{ "prid": "PR00076", "actions": "decline", "date": "11/02/19", "sent": "PR00098" },
+		{ "prid": "PR00011", "actions": "sent", "date": "2/05/18", "sent": "PR00098" },
+		{ "prid": "PR00038", "actions": "sent", "date": "2/05/18", "sent": "PR00098" },
+		{ "prid": "PR00086", "actions": "decline", "date": "11/02/19", "sent": "PR00098" }
+	],
+	"profile": {
+		"info": {
+			"firstName": "Ajay",
+			"lastName": "Thakur",
+			"dob": "2-3-1990",
+			"gender": "male",
+			"martialStatus": "Never married",
+			"country": "india",
+			"state": "kerela",
+			"city": "kochi",
+			"residencyStatus": "citizen",
+			"phoneNumber": "1234567890"
+		},
+		"profession": {
+			"higestEducation": "masters",
+			"specialization": "arts",
+			"employeeSector": "business",
+			"profession": "actor",
+			"employedAt": "None",
+			"annualIncome": "$10000"
+		},
+		"lifestyle": {
+			"complexion": "fair",
+			"height": "5 7",
+			"weight": "68",
+			"bodyType": "slim",
+			"speciallyAbled": "false",
+			"drink": "no",
+			"smoke": "no"
+		},
+		"social": {
+			"familyMembers": [ "dad", "mom", "sister" ],
+			"familyStatus": "rich",
+			"familyValue": "traditional",
+			"religion": "hindu",
+			"community": "hindu",
+			"gotra": "something"
+		},
+		"description": "Let's introduce 's profile to the other community members. You could use the tools to highlight different aspects of 's profile by using the tools provided below to gather attention to relevant details.",
+		"fileList": [
+			{
+				"url": "https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1",
+				"uid": 23,
+				"name": "xxt.png",
+				"status": "done"
+			},
+			{
+				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjmYPSxUhRavfbgb8YuO_-lVFo0IZlhsxMFl_2EjHNSW437LH7",
+				"uid": 21,
+				"name": "ast.png",
+				"status": "done"
+			},
+			{
+				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8eaWusAanTYFkQnAmiSFYT0fIPrTzPS8EnTmSNTy3m_qUcBgEw",
+				"uid": 11,
+				"name": "sdt.png",
+				"status": "done"
+			},
+			{
+				"url": "https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1",
+				"uid": 54,
+				"name": "azx.png",
+				"status": "done"
+			}
+		]
+	}
 }
