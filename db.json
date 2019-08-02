@@ -5,7 +5,7 @@
 	},
 	"profiles": [
 		{
-			"id": "1",
+			"profileId": "1",
 			"name": "Veena",
 			"hide": "false",
 			"location": "Hyderabad",
@@ -17,7 +17,7 @@
 			"match": 3
 		},
 		{
-			"id": "2",
+			"profileId": "2",
 			"name": "Samantha",
 			"hide": "false",
 			"location": "Kerala",
@@ -29,7 +29,7 @@
 			"match": 4
 		},
 		{
-			"id": "3",
+			"profileId": "3",
 			"name": "Rahul",
 			"hide": "false",
 			"location": "Delhi",
@@ -41,7 +41,7 @@
 			"match": 1
 		},
 		{
-			"id": "4",
+			"profileId": "4",
 			"name": "Ashok",
 			"hide": "false",
 			"location": "Pune",
@@ -53,7 +53,7 @@
 			"match": 5
 		},
 		{
-			"id": "5",
+			"profileId": "5",
 			"name": "Maya",
 			"hide": "false",
 			"location": "Mumbai",
@@ -65,7 +65,7 @@
 			"match": 4
 		},
 		{
-			"id": "6",
+			"profileId": "6",
 			"name": "Sanjay",
 			"hide": "false",
 			"location": "Chennai",
