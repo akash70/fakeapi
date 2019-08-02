@@ -1,11 +1,10 @@
 {
 	"profile-summary": {
-		"name": "Vikram Bhat",
+		"name": "John Doe",
 		"imageurl": "https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1"
 	},
 	"profiles": [
 		{
-			"profileId": "1",
 			"name": "Veena",
 			"hide": "false",
 			"location": "Hyderabad",
@@ -17,8 +16,7 @@
 			"match": 3
 		},
 		{
-			"profileId": "2",
-			"name": "Samantha",
+			"name": "Samntha",
 			"hide": "false",
 			"location": "Kerala",
 			"shortlist": false,
@@ -29,7 +27,6 @@
 			"match": 4
 		},
 		{
-			"profileId": "3",
 			"name": "Rahul",
 			"hide": "false",
 			"location": "Delhi",
@@ -41,7 +38,6 @@
 			"match": 1
 		},
 		{
-			"profileId": "4",
 			"name": "Ashok",
 			"hide": "false",
 			"location": "Pune",
@@ -53,7 +49,6 @@
 			"match": 5
 		},
 		{
-			"profileId": "5",
 			"name": "Maya",
 			"hide": "false",
 			"location": "Mumbai",
@@ -65,7 +60,6 @@
 			"match": 4
 		},
 		{
-			"profileId": "6",
 			"name": "Sanjay",
 			"hide": "false",
 			"location": "Chennai",
@@ -92,36 +86,36 @@
 			"dob": "2-3-1990",
 			"gender": "male",
 			"martialStatus": "Never married",
-			"country": "India",
+			"country": "india",
 			"state": "kerela",
 			"city": "kochi",
 			"residencyStatus": "citizen",
 			"phoneNumber": "1234567890"
 		},
 		"profession": {
-			"higestEducation": "Masters",
-			"specialization": "Arts",
-			"employeeSector": "Business",
-			"profession": "Actor",
+			"higestEducation": "masters",
+			"specialization": "arts",
+			"employeeSector": "business",
+			"profession": "actor",
 			"employedAt": "None",
 			"annualIncome": "$10000"
 		},
 		"lifestyle": {
-			"complexion": "Fair",
+			"complexion": "fair",
 			"height": "5 7",
 			"weight": "68",
-			"bodyType": "Slim",
+			"bodyType": "slim",
 			"speciallyAbled": "false",
 			"drink": "no",
 			"smoke": "no"
 		},
 		"social": {
-			"familyMembers": [ "Dad", "Mom", "Sister" ],
-			"familyStatus": "Rich",
-			"familyValue": "Traditional",
-			"religion": "Hindu",
-			"community": "Hindu",
-			"gotra": "Something"
+			"familyMembers": [ "dad", "mom", "sister" ],
+			"familyStatus": "rich",
+			"familyValue": "traditional",
+			"religion": "hindu",
+			"community": "hindu",
+			"gotra": "something"
 		},
 		"description": "Let's introduce 's profile to the other community members. You could use the tools to highlight different aspects of 's profile by using the tools provided below to gather attention to relevant details.",
 		"fileList": [
@@ -145,72 +139,6 @@
 			},
 			{
 				"url": "https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1",
-				"uid": 54,
-				"name": "azx.png",
-				"status": "done"
-			}
-		]
-	},
-	"profiles/1": {
-		"info": {
-			"firstName": "Veena",
-			"lastName": "Thakur",
-			"dob": "2-3-1990",
-			"gender": "Female",
-			"martialStatus": "Never married",
-			"country": "India",
-			"state": "kerela",
-			"city": "kochi",
-			"residencyStatus": "citizen",
-			"phoneNumber": "1234567890"
-		},
-		"profession": {
-			"higestEducation": "M.D",
-			"specialization": "Cardiology",
-			"employeeSector": "Private",
-			"profession": "Doctor",
-			"employedAt": "None",
-			"annualIncome": "$10000"
-		},
-		"lifestyle": {
-			"complexion": "Fair",
-			"height": "5 7",
-			"weight": "60",
-			"bodyType": "slim",
-			"speciallyAbled": "false",
-			"drink": "no",
-			"smoke": "no"
-		},
-		"social": {
-			"familyMembers": [ "Dad", "Mom", "Brother" ],
-			"familyStatus": "Rich",
-			"familyValue": "Traditional",
-			"religion": "Hindu",
-			"community": "Hindu",
-			"gotra": "Something"
-		},
-		"description": "Let's introduce 's profile to the other community members. You could use the tools to highlight different aspects of 's profile by using the tools provided below to gather attention to relevant details.",
-		"fileList": [
-			{
-				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUJnChwBchpCrNR0lzWRxXMNuMjmDHGFun7pPF7mFvfxV0yjj",
-				"uid": 23,
-				"name": "xxt.png",
-				"status": "done"
-			},
-			{
-				"url": "https://i1.wp.com/wallpapershd.live/wp-content/uploads/2019/01/Whatsapp-Dp-pakistani-bridal-2018.png?resize=525%2C657&ssl=1",
-				"uid": 21,
-				"name": "ast.png",
-				"status": "done"
-			},
-			{
-				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUJnChwBchpCrNR0lzWRxXMNuMjmDHGFun7pPF7mFvfxV0yjj",
-				"uid": 11,
-				"name": "sdt.png",
-				"status": "done"
-			},
-			{
-				"url": "https://i1.wp.com/wallpapershd.live/wp-content/uploads/2019/01/Whatsapp-Dp-pakistani-bridal-2018.png?resize=525%2C657&ssl=1",
 				"uid": 54,
 				"name": "azx.png",
 				"status": "done"
