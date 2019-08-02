@@ -1,10 +1,11 @@
 {
 	"profile-summary": {
-		"name": "John Doe",
+		"name": "Vikram Bhat",
 		"imageurl": "https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1"
 	},
 	"profiles": [
 		{
+			"id": "1",
 			"name": "Veena",
 			"hide": "false",
 			"location": "Hyderabad",
@@ -16,6 +17,7 @@
 			"match": 3
 		},
 		{
+			"id": "2",
 			"name": "Samntha",
 			"hide": "false",
 			"location": "Kerala",
@@ -27,6 +29,7 @@
 			"match": 4
 		},
 		{
+			"id": "3",
 			"name": "Rahul",
 			"hide": "false",
 			"location": "Delhi",
@@ -38,6 +41,7 @@
 			"match": 1
 		},
 		{
+			"id": "4",
 			"name": "Ashok",
 			"hide": "false",
 			"location": "Pune",
@@ -49,6 +53,7 @@
 			"match": 5
 		},
 		{
+			"id": "5",
 			"name": "Maya",
 			"hide": "false",
 			"location": "Mumbai",
@@ -60,6 +65,7 @@
 			"match": 4
 		},
 		{
+			"id": "6",
 			"name": "Sanjay",
 			"hide": "false",
 			"location": "Chennai",
@@ -86,36 +92,36 @@
 			"dob": "2-3-1990",
 			"gender": "male",
 			"martialStatus": "Never married",
-			"country": "india",
-			"state": "kerela",
-			"city": "kochi",
-			"residencyStatus": "citizen",
+			"country": "India",
+			"state": "Kerela",
+			"city": "Kochi",
+			"residencyStatus": "Citizen",
 			"phoneNumber": "1234567890"
 		},
 		"profession": {
-			"higestEducation": "masters",
-			"specialization": "arts",
-			"employeeSector": "business",
-			"profession": "actor",
+			"higestEducation": "Masters",
+			"specialization": "Arts",
+			"employeeSector": "Business",
+			"profession": "Actor",
 			"employedAt": "None",
 			"annualIncome": "$10000"
 		},
 		"lifestyle": {
-			"complexion": "fair",
+			"complexion": "Fair",
 			"height": "5 7",
 			"weight": "68",
-			"bodyType": "slim",
-			"speciallyAbled": "false",
-			"drink": "no",
-			"smoke": "no"
+			"bodyType": "Slim",
+			"speciallyAbled": "False",
+			"drink": "No",
+			"smoke": "No"
 		},
 		"social": {
-			"familyMembers": [ "dad", "mom", "sister" ],
-			"familyStatus": "rich",
-			"familyValue": "traditional",
-			"religion": "hindu",
-			"community": "hindu",
-			"gotra": "something"
+			"familyMembers": [ "Dad", "Mom", "Sister" ],
+			"familyStatus": "Rich",
+			"familyValue": "Traditional",
+			"religion": "Hindu",
+			"community": "Hindu",
+			"gotra": "Something"
 		},
 		"description": "Let's introduce 's profile to the other community members. You could use the tools to highlight different aspects of 's profile by using the tools provided below to gather attention to relevant details.",
 		"fileList": [
