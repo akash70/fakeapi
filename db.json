@@ -187,7 +187,7 @@
       },
       "lifestyle": {
         "complexion": "Fair",
-        "height": "5 7",
+        "height": [5,7],
         "weight": "68",
         "bodyType": "Slim",
         "speciallyAbled": "False",
