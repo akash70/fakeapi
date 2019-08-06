@@ -230,5 +230,118 @@
         }
       ]
     }
-  ]
+  ],
+  
+  "proposals":{
+      "proposalsSent":[
+        {
+          "id": "6",
+          "name": "Sanjay",
+          "accepted": false,
+          "location": "Chennai",
+          "profession": "Doctor",
+          "imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+          "age": "25 Years"
+        },
+        {
+          "id": "7",
+          "name": "Ajay",
+          "accepted": false,
+          "location": "Hyderabad",
+          "profession": "Doctor",
+          "imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+          "age": "26 Years"
+        },
+        {
+          "id": "66",
+          "name": "Sanjay",
+          "accepted": true,
+          "location": "Delhi",
+          "profession": "Doctor",
+          "imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+          "age": "24 Years"
+        },
+        {
+          "id": "65",
+          "name": "Sanjay",
+          "accepted": false,
+          "location": "Chennai",
+          "profession": "Doctor",
+          "imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+          "age": "25 Years"
+        },
+        {
+          "id": "61",
+          "name": "Sanjay Gupta",
+          "accepted": true,
+          "location": "Chennai",
+          "profession": "Doctor",
+          "imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+          "age": "28 Years"
+        }
+      ],
+      "proposalsRecieved":[
+        {
+          "id": "6",
+          "name": "Sanjay",
+          "accepted": false,
+          "location": "Chennai",
+          "profession": "Doctor",
+          "imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+          "age": "25 Years"
+        },
+        {
+          "id": "6",
+          "name": "Sanjay",
+          "accepted": false,
+          "location": "Chennai",
+          "profession": "Doctor",
+          "imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+          "age": "25 Years"},
+        {
+          "id": "6",
+          "name": "Sanjay",
+          "accepted": false,
+          "location": "Chennai",
+          "profession": "Doctor",
+          "imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+          "age": "25 Years"},
+        {
+          "id": "6",
+          "name": "Sanjay",
+          "accepted": false,
+          "location": "Chennai",
+          "profession": "Doctor",
+          "imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+          "age": "25 Years"},
+        {
+          "id": "6",
+          "name": "Sanjay",
+          "accepted": false,
+          "location": "Chennai",
+          "profession": "Doctor",
+          "imageurl": "https://hairstylesweekly.com/images/2012/08/Zayn-Malik-Spiky-Hairstyles-for-Men.jpg",
+          "age": "25 Years"
+        }
+      ]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 }
