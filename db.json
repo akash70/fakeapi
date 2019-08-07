@@ -42,20 +42,7 @@
       "description": "Unfortunately that sort of thing happens from time to time. It's a part of the game that we play.",
       "matchScore": 3,
       "horoscopeScore": ""
-    },
-    {
-      "id": "4",
-      "name": "Ashok",
-      "hide": "false",
-      "location": "Pune",
-      "shortlist": false,
-      "profession": "Professor",
-      "imageurl": "http://cflyer.com//comprehensive/uploads/thumbnail/630044536ravi.png",
-      "age": "27 Years",
-      "description": "With two runs required off the final ball, wicketkeeper Jos Buttler and Jason Roy combined to run out Guptill as he came back for the second.",
-      "matchScore": 5,
-      "horoscopeScore": ""
-    } 
+    }
   ],
  
   "profile": {
