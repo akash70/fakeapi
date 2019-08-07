@@ -215,17 +215,31 @@
   "proposals":{
     "sent":[
       {
-       "id": "2",
       "name": "Samantha",
-      "hide": "false",
       "location": "Kerala",
-      "shortlist": false,
       "profession": "Doctor",
       "imageurl": "https://media.istockphoto.com/photos/beautiful-woman-in-denim-shirt-smiling-picture-id655015648?k=6&m=655015648&s=612x612&w=0&h=Dqijc-8XkNCzvqO05Jq_JlO8HC7wD0gqt70CuE2Jt3s=",
       "age": "30 Years",
       "description": "England, who have often cited a humiliating defeat by New Zealand at the 2015 World Cup as the catalyst for their climb to the top of the one-day international rankings, finally have a World Cup win to go with their three losing appearances in the 1979, 1987 and 1992 finals",
       "matchScore": 4,
-      "horoscopeScore": ""
+      },
+      {
+      "name": "Ajay",
+      "location": "Pune",
+      "profession": "Actor",
+      "imageurl": "https://media.istockphoto.com/photos/beautiful-woman-in-denim-shirt-smiling-picture-id655015648?k=6&m=655015648&s=612x612&w=0&h=Dqijc-8XkNCzvqO05Jq_JlO8HC7wD0gqt70CuE2Jt3s=",
+      "age": "27 Years",
+      "description": "England, who have often cited a humiliating defeat by New Zealand at the 2015 World Cup as the catalyst for their climb to the top of the one-day international rankings, finally have a World Cup win to go with their three losing appearances in the 1979, 1987 and 1992 finals",
+      "matchScore": 4,
+      },
+      {
+      "name": "Rajesh",
+      "location": "Hyderabad",
+      "profession": "Doctor",
+      "imageurl": "https://media.istockphoto.com/photos/beautiful-woman-in-denim-shirt-smiling-picture-id655015648?k=6&m=655015648&s=612x612&w=0&h=Dqijc-8XkNCzvqO05Jq_JlO8HC7wD0gqt70CuE2Jt3s=",
+      "age": "33 Years",
+      "description": "England, who have often cited a humiliating defeat by New Zealand at the 2015 World Cup as the catalyst for their climb to the top of the one-day international rankings, finally have a World Cup win to go with their three losing appearances in the 1979, 1987 and 1992 finals",
+      "matchScore": 4,
       }
       
     ],
@@ -233,7 +247,6 @@
        {
        "id": "2",
       "name": "Samantha",
-      "hide": "false",
       "location": "Kerala",
       "shortlist": false,
       "profession": "Doctor",
@@ -241,7 +254,6 @@
       "age": "30 Years",
       "description": "England, who have often cited a humiliating defeat by New Zealand at the 2015 World Cup as the catalyst for their climb to the top of the one-day international rankings, finally have a World Cup win to go with their three losing appearances in the 1979, 1987 and 1992 finals",
       "matchScore": 4,
-      "horoscopeScore": ""
       }
     ]
   }
